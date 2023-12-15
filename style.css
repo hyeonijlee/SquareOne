@@ -1,0 +1,14 @@
+header{
+    background-image: linear-gradient(to top, rgba(0,0,0, 0),rgba(0,0,0,2)),url(images/main.jpg);
+    background-size: cover;
+    background-position: center top;
+    background-attachment: fixed;}
+body{font-family: 'Heebo', sans-serif;}
+h1,h2,h3,h4,h5,h6,div{font-family: 'Libre Baskerville', sans-serif;}
+p{font-family: 'IBM Plex Sans KR', sans-serif;}
+#font{font-family: 'Libre Baskerville', serif;}
+
+ 
+  
+  
+                                                                                                                                                                                                                                                                                                                                                                            
